@@ -1,0 +1,44 @@
+# Blender 4.1.1 MTL File: 'None'
+# www.blender.org
+
+newmtl door_single_mat.001
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Ns C:/Users/belka/Documents/Blender/Assets/door_single_Roughness.tga
+map_Bump -bm 1.000000 C:/Users/belka/Documents/Blender/Assets/door_single_Normal.tga
+
+newmtl glass_mat.001
+Ns 902.500000
+Ka 1.000000 1.000000 1.000000
+Kd 0.916805 1.000000 0.890005
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl window_frame_mat.001
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Ns C:/Users/belka/Documents/Blender/Assets/window_frame_Roughness.tga
+map_Bump -bm 1.000000 C:/Users/belka/Documents/Blender/Assets/window_frame_Normal.tga
+
+newmtl wire_mat.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2

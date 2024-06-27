@@ -1,0 +1,6 @@
+2024/06/27-12:06:53.212 13570 Creating DB C:/Users/belka/Documents/GitHub/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/06/27-12:06:53.224 13570 Reusing MANIFEST C:/Users/belka/Documents/GitHub/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/27-12:08:25.976 dfe8 Level-0 table #5: started
+2024/06/27-12:08:26.012 dfe8 Level-0 table #5: 1167 bytes OK
+2024/06/27-12:08:26.017 dfe8 Delete type=0 #3
+2024/06/27-12:08:26.017 dfe8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
