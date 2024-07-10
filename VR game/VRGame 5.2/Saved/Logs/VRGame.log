@@ -9056,3 +9056,388 @@ Script Stack (0 frames) :
 [2024.07.10-15.47.22:764][805]Cmd: MAP CHECK NOTIFYRESULTS
 [2024.07.10-15.47.22:764][805]MapCheck: New page: MarketingSuite - 10 Jul 2024, 17:47:22
 [2024.07.10-15.47.22:766][805]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.355ms to complete.
+[2024.07.10-15.55.44:546][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.07.10-15.55.44:550][270]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.10-15.55.44:637][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/MarketingSuite_Auto3
+[2024.07.10-15.55.44:637][270]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/VRTemplate/Maps/MarketingSuite_Auto3.umap' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuite_Auto3E491447941119F61816FFD9B80902F19.tmp' (Error Code 32), retrying in .5s...
+[2024.07.10-15.55.45:138][270]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/VRTemplate/Maps/MarketingSuite_Auto3.umap' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuite_Auto3E491447941119F61816FFD9B80902F19.tmp' (Error Code 32), retrying in .5s...
+[2024.07.10-15.55.45:640][270]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/VRTemplate/Maps/MarketingSuite_Auto3.umap' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuite_Auto3E491447941119F61816FFD9B80902F19.tmp' (Error Code 32), retrying in .5s...
+[2024.07.10-15.55.46:140][270]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/VRTemplate/Maps/MarketingSuite_Auto3.umap' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuite_Auto3E491447941119F61816FFD9B80902F19.tmp' (Error Code 32), retrying in .5s...
+[2024.07.10-15.55.46:641][270]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/VRTemplate/Maps/MarketingSuite_Auto3.umap' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuite_Auto3E491447941119F61816FFD9B80902F19.tmp' (Error Code 32), retrying in .5s...
+[2024.07.10-15.55.47:141][270]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/VRTemplate/Maps/MarketingSuite_Auto3.umap' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuite_Auto3E491447941119F61816FFD9B80902F19.tmp' (Error Code 32), retrying in .5s...
+[2024.07.10-15.55.47:641][270]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/VRTemplate/Maps/MarketingSuite_Auto3.umap' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuite_Auto3E491447941119F61816FFD9B80902F19.tmp' (Error Code 32), retrying in .5s...
+[2024.07.10-15.55.48:142][270]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/VRTemplate/Maps/MarketingSuite_Auto3.umap' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuite_Auto3E491447941119F61816FFD9B80902F19.tmp' (Error Code 32), retrying in .5s...
+[2024.07.10-15.55.48:643][270]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/VRTemplate/Maps/MarketingSuite_Auto3.umap' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuite_Auto3E491447941119F61816FFD9B80902F19.tmp' (Error Code 32), retrying in .5s...
+[2024.07.10-15.55.49:144][270]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/VRTemplate/Maps/MarketingSuite_Auto3.umap' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuite_Auto3E491447941119F61816FFD9B80902F19.tmp' (Error Code 32), retrying in .5s...
+[2024.07.10-15.55.49:645][270]LogFileManager: Error: Error moving file '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/VRTemplate/Maps/MarketingSuite_Auto3.umap' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuite_Auto3E491447941119F61816FFD9B80902F19.tmp'.
+[2024.07.10-15.55.49:645][270]LogSavePackage: Warning: Failed to move '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/VRTemplate/Maps/MarketingSuite_Auto3.umap' to temp directory
+[2024.07.10-15.55.49:645][270]LogSavePackage: Error: Error saving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/VRTemplate/Maps/MarketingSuite_Auto3.umap'
+[2024.07.10-15.55.49:653][270]EditorErrors: New page: Save Output
+[2024.07.10-15.55.49:653][270]EditorErrors: Warning: Error saving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/VRTemplate/Maps/MarketingSuite_Auto3.umap'
+[2024.07.10-15.55.49:661][270]LogFileHelpers: Editor autosave (incl. sublevels) failed for file '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/VRTemplate/Maps/MarketingSuite_Auto3.umap' which belongs to world '/Game/VRTemplate/Maps/MarketingSuite'. Aborting autosave.
+[2024.07.10-15.55.49:661][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BloombergRoom/RoomPieces/bloomberg_roomSeparate_BloombergCenterPillar] ([1] browsable assets)...
+[2024.07.10-15.55.49:661][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/BloombergRoom/RoomPieces/bloomberg_roomSeparate_BloombergCenterPillar]
+[2024.07.10-15.55.49:665][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BloombergRoom/RoomPieces/bloomberg_roomSeparate_BloombergCenterPillar_Auto3
+[2024.07.10-15.55.49:666][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/bloomberg_roomSeparate_Bloomberg0D9494784DE2C2DCE857F7901EA07078.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/BloombergRoom/RoomPieces/bloomberg_roomSeparate_BloombergCenterPillar_Auto3.uasset'
+[2024.07.10-15.55.49:668][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BloombergRoom/RoomPieces/bloomberg_roomSeparate_Cube_001] ([1] browsable assets)...
+[2024.07.10-15.55.49:668][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/BloombergRoom/RoomPieces/bloomberg_roomSeparate_Cube_001]
+[2024.07.10-15.55.49:671][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BloombergRoom/RoomPieces/bloomberg_roomSeparate_Cube_001_Auto3
+[2024.07.10-15.55.49:672][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/bloomberg_roomSeparate_Cube_001_70733C4B4A9E26931A30A387AC637F9D.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/BloombergRoom/RoomPieces/bloomberg_roomSeparate_Cube_001_Auto3.uasset'
+[2024.07.10-15.55.49:673][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MarketingSuite/FreeStandingTV/WallTV1] ([1] browsable assets)...
+[2024.07.10-15.55.49:673][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/MarketingSuite/FreeStandingTV/WallTV1]
+[2024.07.10-15.55.49:679][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MarketingSuite/FreeStandingTV/WallTV1_Auto3
+[2024.07.10-15.55.49:680][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/WallTV1_Auto396B4BFC74226079DAEC8FEAB727F9D86.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/MarketingSuite/FreeStandingTV/WallTV1_Auto3.uasset'
+[2024.07.10-15.55.49:681][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MarketingSuite/MarketingSuite_ceiling] ([1] browsable assets)...
+[2024.07.10-15.55.49:681][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/MarketingSuite/MarketingSuite_ceiling]
+[2024.07.10-15.55.49:685][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MarketingSuite/MarketingSuite_ceiling_Auto3
+[2024.07.10-15.55.49:686][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuite_ceiling_Auto325F86B304DEB639D04C99AAA53210EEF.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/MarketingSuite/MarketingSuite_ceiling_Auto3.uasset'
+[2024.07.10-15.55.49:687][270]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MarketingSuite/MarketingSuiteDesk/MarketingSuiteDesk] ([1] browsable assets)...
+[2024.07.10-15.55.49:715][270]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MarketingSuite/MarketingSuiteDesk/MarketingSuiteDesk.MarketingSuiteDesk]
+[2024.07.10-15.55.49:715][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/MarketingSuite/MarketingSuiteDesk/MarketingSuiteDesk]
+[2024.07.10-15.55.49:732][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MarketingSuite/MarketingSuiteDesk/MarketingSuiteDesk_Auto3
+[2024.07.10-15.55.49:733][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuiteDesk_Auto3F87814084416D59472BD2486EE569691.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/MarketingSuite/MarketingSuiteDesk/MarketingSuiteDesk_Auto3.uasset'
+[2024.07.10-15.55.49:735][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MarketingSuite/RoomWallSegments/MarketingSuiteWallSegments_Cube_016] ([1] browsable assets)...
+[2024.07.10-15.55.49:735][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/MarketingSuite/RoomWallSegments/MarketingSuiteWallSegments_Cube_016]
+[2024.07.10-15.55.49:738][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MarketingSuite/RoomWallSegments/MarketingSuiteWallSegments_Cube_016_Auto3
+[2024.07.10-15.55.49:739][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuiteWallSegments_Cube_DAAFFD2141DCA29D0F22C59C22816490.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/MarketingSuite/RoomWallSegments/MarketingSuiteWallSegments_Cube_016_Auto3.uasset'
+[2024.07.10-15.55.49:740][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MarketingSuite/RoomWallSegments/MarketingSuiteWallSegments_Cube_019] ([1] browsable assets)...
+[2024.07.10-15.55.49:740][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/MarketingSuite/RoomWallSegments/MarketingSuiteWallSegments_Cube_019]
+[2024.07.10-15.55.49:744][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MarketingSuite/RoomWallSegments/MarketingSuiteWallSegments_Cube_019_Auto3
+[2024.07.10-15.55.49:745][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuiteWallSegments_Cube_F9EC407A4D364823E21F1F90EC4A779B.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/MarketingSuite/RoomWallSegments/MarketingSuiteWallSegments_Cube_019_Auto3.uasset'
+[2024.07.10-15.55.49:746][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MarketingSuite/RoomWallSegments/MarketingSuiteWallSegments_Cube_021] ([1] browsable assets)...
+[2024.07.10-15.55.49:746][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/MarketingSuite/RoomWallSegments/MarketingSuiteWallSegments_Cube_021]
+[2024.07.10-15.55.49:750][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MarketingSuite/RoomWallSegments/MarketingSuiteWallSegments_Cube_021_Auto3
+[2024.07.10-15.55.49:751][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuiteWallSegments_Cube_3807B91C41C7081253A53BB42EFB1E25.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/MarketingSuite/RoomWallSegments/MarketingSuiteWallSegments_Cube_021_Auto3.uasset'
+[2024.07.10-15.55.49:752][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MarketingSuite/RoomWallSegments/MarketingSuiteWallSegments_Cube_034] ([1] browsable assets)...
+[2024.07.10-15.55.49:752][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/MarketingSuite/RoomWallSegments/MarketingSuiteWallSegments_Cube_034]
+[2024.07.10-15.55.49:757][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MarketingSuite/RoomWallSegments/MarketingSuiteWallSegments_Cube_034_Auto3
+[2024.07.10-15.55.49:758][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuiteWallSegments_Cube_0428719A4C68425A4D85EDA09862C97F.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/MarketingSuite/RoomWallSegments/MarketingSuiteWallSegments_Cube_034_Auto3.uasset'
+[2024.07.10-15.55.49:759][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BloombergRoom/RoomPieces/Material_003] ([1] browsable assets)...
+[2024.07.10-15.55.49:759][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/BloombergRoom/RoomPieces/Material_003]
+[2024.07.10-15.55.49:761][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BloombergRoom/RoomPieces/Material_003_Auto3
+[2024.07.10-15.55.49:761][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Material_003_Auto3CB6E9E64483C4DB351E766BE9D347734.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/BloombergRoom/RoomPieces/Material_003_Auto3.uasset'
+[2024.07.10-15.55.49:763][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BloombergRoom/RoomPieces/props_mat_001] ([1] browsable assets)...
+[2024.07.10-15.55.49:763][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/BloombergRoom/RoomPieces/props_mat_001]
+[2024.07.10-15.55.49:765][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BloombergRoom/RoomPieces/props_mat_001_Auto3
+[2024.07.10-15.55.49:766][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/props_mat_001_Auto340786D5F43C082281EAC2CABD1EDF7FE.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/BloombergRoom/RoomPieces/props_mat_001_Auto3.uasset'
+[2024.07.10-15.55.49:767][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BloombergRoom/RoomPieces/TV_Back_001] ([1] browsable assets)...
+[2024.07.10-15.55.49:767][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/BloombergRoom/RoomPieces/TV_Back_001]
+[2024.07.10-15.55.49:769][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BloombergRoom/RoomPieces/TV_Back_001_Auto3
+[2024.07.10-15.55.49:770][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/TV_Back_001_Auto3E12FE78041FB215254A9D6B8E00DBA98.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/BloombergRoom/RoomPieces/TV_Back_001_Auto3.uasset'
+[2024.07.10-15.55.49:771][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BloombergRoom/RoomPieces/SCREEN] ([1] browsable assets)...
+[2024.07.10-15.55.49:771][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/BloombergRoom/RoomPieces/SCREEN]
+[2024.07.10-15.55.49:773][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BloombergRoom/RoomPieces/SCREEN_Auto3
+[2024.07.10-15.55.49:773][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/SCREEN_Auto3D7DB02DC4321173108EEEBB7D6DDC4FC.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/BloombergRoom/RoomPieces/SCREEN_Auto3.uasset'
+[2024.07.10-15.55.49:775][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BloombergRoom/RoomPieces/Greenwich_Logo] ([1] browsable assets)...
+[2024.07.10-15.55.49:775][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/BloombergRoom/RoomPieces/Greenwich_Logo]
+[2024.07.10-15.55.49:784][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BloombergRoom/RoomPieces/Greenwich_Logo_Auto3
+[2024.07.10-15.55.49:785][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Greenwich_Logo_Auto38B96073A4213B96C921ED883C0E34304.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/BloombergRoom/RoomPieces/Greenwich_Logo_Auto3.uasset'
+[2024.07.10-15.55.49:788][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BloombergRoom/RoomPieces/Light] ([1] browsable assets)...
+[2024.07.10-15.55.49:788][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/BloombergRoom/RoomPieces/Light]
+[2024.07.10-15.55.49:790][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BloombergRoom/RoomPieces/Light_Auto3
+[2024.07.10-15.55.49:790][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Light_Auto33A2FAAE14ED873FE56DD3F97497FFE25.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/BloombergRoom/RoomPieces/Light_Auto3.uasset'
+[2024.07.10-15.55.49:792][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BloombergRoom/RoomPieces/FloorCarpet2] ([1] browsable assets)...
+[2024.07.10-15.55.49:792][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/BloombergRoom/RoomPieces/FloorCarpet2]
+[2024.07.10-15.55.49:799][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BloombergRoom/RoomPieces/FloorCarpet2_Auto3
+[2024.07.10-15.55.49:799][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/FloorCarpet2_Auto3AA57733E45422B2983AA07A21463E4B2.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/BloombergRoom/RoomPieces/FloorCarpet2_Auto3.uasset'
+[2024.07.10-15.55.49:801][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BloombergRoom/RoomPieces/bloomberg_roomDoor_BloombergWallPiece_004] ([1] browsable assets)...
+[2024.07.10-15.55.49:801][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/BloombergRoom/RoomPieces/bloomberg_roomDoor_BloombergWallPiece_004]
+[2024.07.10-15.55.49:805][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BloombergRoom/RoomPieces/bloomberg_roomDoor_BloombergWallPiece_004_Auto3
+[2024.07.10-15.55.49:806][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/bloomberg_roomDoor_BloombergWall829B19F54E49E78376B9ED92B347E0CC.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/BloombergRoom/RoomPieces/bloomberg_roomDoor_BloombergWallPiece_004_Auto3.uasset'
+[2024.07.10-15.55.49:807][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BloombergRoom/RoomPieces/ChairFabric] ([1] browsable assets)...
+[2024.07.10-15.55.49:807][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/BloombergRoom/RoomPieces/ChairFabric]
+[2024.07.10-15.55.49:833][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BloombergRoom/RoomPieces/ChairFabric_Auto3
+[2024.07.10-15.55.49:833][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/ChairFabric_Auto36AD6378B4355716229E32583C6325C43.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/BloombergRoom/RoomPieces/ChairFabric_Auto3.uasset'
+[2024.07.10-15.55.49:837][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BloombergRoom/RoomPieces/frame_mat] ([1] browsable assets)...
+[2024.07.10-15.55.49:837][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/BloombergRoom/RoomPieces/frame_mat]
+[2024.07.10-15.55.49:839][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BloombergRoom/RoomPieces/frame_mat_Auto3
+[2024.07.10-15.55.49:840][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/frame_mat_Auto3DA12B29B4D04BCAF090802BE76168635.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/BloombergRoom/RoomPieces/frame_mat_Auto3.uasset'
+[2024.07.10-15.55.49:841][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BloombergRoom/RoomPieces/sound_proofing] ([1] browsable assets)...
+[2024.07.10-15.55.49:841][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/BloombergRoom/RoomPieces/sound_proofing]
+[2024.07.10-15.55.49:843][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BloombergRoom/RoomPieces/sound_proofing_Auto3
+[2024.07.10-15.55.49:844][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/sound_proofing_Auto3529771964A7E23F7B2A926AD85A6B1B2.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/BloombergRoom/RoomPieces/sound_proofing_Auto3.uasset'
+[2024.07.10-15.55.49:847][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BloombergRoom/RoomPieces/Wall] ([1] browsable assets)...
+[2024.07.10-15.55.49:847][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/BloombergRoom/RoomPieces/Wall]
+[2024.07.10-15.55.49:850][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BloombergRoom/RoomPieces/Wall_Auto3
+[2024.07.10-15.55.49:850][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Wall_Auto3172598C642E6BE610CD55FA7115EB90B.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/BloombergRoom/RoomPieces/Wall_Auto3.uasset'
+[2024.07.10-15.55.49:852][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BloombergRoom/RoomPieces/Material_002] ([1] browsable assets)...
+[2024.07.10-15.55.49:852][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/BloombergRoom/RoomPieces/Material_002]
+[2024.07.10-15.55.49:853][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BloombergRoom/RoomPieces/Material_002_Auto3
+[2024.07.10-15.55.49:854][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Material_002_Auto3EFB30D2E491621399573409E2F15AC51.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/BloombergRoom/RoomPieces/Material_002_Auto3.uasset'
+[2024.07.10-15.55.49:855][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BloombergRoom/RoomPieces/PaintedWoodwhite] ([1] browsable assets)...
+[2024.07.10-15.55.49:855][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/BloombergRoom/RoomPieces/PaintedWoodwhite]
+[2024.07.10-15.55.49:879][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BloombergRoom/RoomPieces/PaintedWoodwhite_Auto3
+[2024.07.10-15.55.49:879][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/PaintedWoodwhite_Auto3C985E601497EDB262DDF3197309358E2.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/BloombergRoom/RoomPieces/PaintedWoodwhite_Auto3.uasset'
+[2024.07.10-15.55.49:883][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BloombergRoom/RoomPieces/window_frame_mat_001] ([1] browsable assets)...
+[2024.07.10-15.55.49:883][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/BloombergRoom/RoomPieces/window_frame_mat_001]
+[2024.07.10-15.55.49:885][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BloombergRoom/RoomPieces/window_frame_mat_001_Auto3
+[2024.07.10-15.55.49:886][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/window_frame_mat_001_Auto33511FEEC4E47E2E3058D3F98E1B204D6.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/BloombergRoom/RoomPieces/window_frame_mat_001_Auto3.uasset'
+[2024.07.10-15.55.49:887][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BloombergRoom/RoomPieces/glass_mat_001] ([1] browsable assets)...
+[2024.07.10-15.55.49:887][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/BloombergRoom/RoomPieces/glass_mat_001]
+[2024.07.10-15.55.49:889][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BloombergRoom/RoomPieces/glass_mat_001_Auto3
+[2024.07.10-15.55.49:890][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/glass_mat_001_Auto3410F05034A518CF1697757B7A7CE14E0.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/BloombergRoom/RoomPieces/glass_mat_001_Auto3.uasset'
+[2024.07.10-15.55.49:891][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BloombergRoom/RoomPieces/white_plastic] ([1] browsable assets)...
+[2024.07.10-15.55.49:891][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/BloombergRoom/RoomPieces/white_plastic]
+[2024.07.10-15.55.49:893][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BloombergRoom/RoomPieces/white_plastic_Auto3
+[2024.07.10-15.55.49:894][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/white_plastic_Auto3A9A5571341B97FCE2BEA12B9C56C5734.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/BloombergRoom/RoomPieces/white_plastic_Auto3.uasset'
+[2024.07.10-15.55.49:895][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BloombergRoom/RoomPieces/frame_mat_001] ([1] browsable assets)...
+[2024.07.10-15.55.49:895][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/BloombergRoom/RoomPieces/frame_mat_001]
+[2024.07.10-15.55.49:897][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BloombergRoom/RoomPieces/frame_mat_001_Auto3
+[2024.07.10-15.55.49:897][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/frame_mat_001_Auto303F4EE58419B0166F9C367A9E21062D2.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/BloombergRoom/RoomPieces/frame_mat_001_Auto3.uasset'
+[2024.07.10-15.55.49:899][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BloombergRoom/RoomPieces/WallTexture] ([1] browsable assets)...
+[2024.07.10-15.55.49:899][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/BloombergRoom/RoomPieces/WallTexture]
+[2024.07.10-15.55.49:921][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BloombergRoom/RoomPieces/WallTexture_Auto3
+[2024.07.10-15.55.49:922][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/WallTexture_Auto323AA55BE485219698CE447AB974D3182.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/BloombergRoom/RoomPieces/WallTexture_Auto3.uasset'
+[2024.07.10-15.55.49:926][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BloombergRoom/RoomPieces/PaintedWhiteWood] ([1] browsable assets)...
+[2024.07.10-15.55.49:926][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/BloombergRoom/RoomPieces/PaintedWhiteWood]
+[2024.07.10-15.55.49:928][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BloombergRoom/RoomPieces/PaintedWhiteWood_Auto3
+[2024.07.10-15.55.49:929][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/PaintedWhiteWood_Auto35655CD5C4CB03BC8FF29B583939C8A1A.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/BloombergRoom/RoomPieces/PaintedWhiteWood_Auto3.uasset'
+[2024.07.10-15.55.49:930][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BloombergRoom/RoomPieces/door_single_mat_001] ([1] browsable assets)...
+[2024.07.10-15.55.49:930][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/BloombergRoom/RoomPieces/door_single_mat_001]
+[2024.07.10-15.55.49:932][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BloombergRoom/RoomPieces/door_single_mat_001_Auto3
+[2024.07.10-15.55.49:933][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/door_single_mat_001_Auto3BB5BF9B145F2BE82BF8742A7944106CB.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/BloombergRoom/RoomPieces/door_single_mat_001_Auto3.uasset'
+[2024.07.10-15.55.49:935][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BloombergRoom/RoomPieces/oak_veneer_01_diff_2k] ([1] browsable assets)...
+[2024.07.10-15.55.49:935][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/BloombergRoom/RoomPieces/oak_veneer_01_diff_2k]
+[2024.07.10-15.55.49:940][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BloombergRoom/RoomPieces/oak_veneer_01_diff_2k_Auto3
+[2024.07.10-15.55.49:941][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/oak_veneer_01_diff_2k_Auto369125D584AF87FB2B089DDA32F43D336.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/BloombergRoom/RoomPieces/oak_veneer_01_diff_2k_Auto3.uasset'
+[2024.07.10-15.55.49:943][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BloombergRoom/BloombergDesk/bloomberg_desk1_bloomberg_desk] ([1] browsable assets)...
+[2024.07.10-15.55.49:943][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/BloombergRoom/BloombergDesk/bloomberg_desk1_bloomberg_desk]
+[2024.07.10-15.55.49:948][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BloombergRoom/BloombergDesk/bloomberg_desk1_bloomberg_desk_Auto3
+[2024.07.10-15.55.49:948][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/bloomberg_desk1_bloomberg_desk_AC88D717C4D53CFC838C0CEB09DC1F395.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/BloombergRoom/BloombergDesk/bloomberg_desk1_bloomberg_desk_Auto3.uasset'
+[2024.07.10-15.55.49:950][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BloombergRoom/BloombergDesk/Keyboard] ([1] browsable assets)...
+[2024.07.10-15.55.49:950][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/BloombergRoom/BloombergDesk/Keyboard]
+[2024.07.10-15.55.49:952][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BloombergRoom/BloombergDesk/Keyboard_Auto3
+[2024.07.10-15.55.49:953][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Keyboard_Auto301CC6000460C0B6D0B22408637065638.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/BloombergRoom/BloombergDesk/Keyboard_Auto3.uasset'
+[2024.07.10-15.55.49:954][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BloombergRoom/BloombergDesk/bloomberg_desk1_bloomberg_desk_001] ([1] browsable assets)...
+[2024.07.10-15.55.49:954][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/BloombergRoom/BloombergDesk/bloomberg_desk1_bloomberg_desk_001]
+[2024.07.10-15.55.49:958][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BloombergRoom/BloombergDesk/bloomberg_desk1_bloomberg_desk_001_Auto3
+[2024.07.10-15.55.49:959][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/bloomberg_desk1_bloomberg_desk_0E7D5D474481322059F4532A465909508.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/BloombergRoom/BloombergDesk/bloomberg_desk1_bloomberg_desk_001_Auto3.uasset'
+[2024.07.10-15.55.49:960][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BloombergRoom/BloombergDesk/Logitech_G603_Turbosquid] ([1] browsable assets)...
+[2024.07.10-15.55.49:960][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/BloombergRoom/BloombergDesk/Logitech_G603_Turbosquid]
+[2024.07.10-15.55.49:969][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BloombergRoom/BloombergDesk/Logitech_G603_Turbosquid_Auto3
+[2024.07.10-15.55.49:970][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Logitech_G603_Turbosquid_Auto32ED2A2364727F4DB0CCE54B90CF484DE.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/BloombergRoom/BloombergDesk/Logitech_G603_Turbosquid_Auto3.uasset'
+[2024.07.10-15.55.49:971][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BloombergRoom/BloombergDesk/matt_plastic_black] ([1] browsable assets)...
+[2024.07.10-15.55.49:971][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/BloombergRoom/BloombergDesk/matt_plastic_black]
+[2024.07.10-15.55.49:973][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BloombergRoom/BloombergDesk/matt_plastic_black_Auto3
+[2024.07.10-15.55.49:973][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/matt_plastic_black_Auto3C82891224EDCC499F5C1509F5BDD2426.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/BloombergRoom/BloombergDesk/matt_plastic_black_Auto3.uasset'
+[2024.07.10-15.55.49:975][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BloombergRoom/BloombergDesk/matt_plastic_grey] ([1] browsable assets)...
+[2024.07.10-15.55.49:975][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/BloombergRoom/BloombergDesk/matt_plastic_grey]
+[2024.07.10-15.55.49:976][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BloombergRoom/BloombergDesk/matt_plastic_grey_Auto3
+[2024.07.10-15.55.49:977][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/matt_plastic_grey_Auto30659892F4E95571F4235D3B9EAA9A707.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/BloombergRoom/BloombergDesk/matt_plastic_grey_Auto3.uasset'
+[2024.07.10-15.55.49:978][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BloombergRoom/BloombergDesk/glossy_plastic_black] ([1] browsable assets)...
+[2024.07.10-15.55.49:978][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/BloombergRoom/BloombergDesk/glossy_plastic_black]
+[2024.07.10-15.55.49:980][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BloombergRoom/BloombergDesk/glossy_plastic_black_Auto3
+[2024.07.10-15.55.49:981][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/glossy_plastic_black_Auto33461692B42580F970FEB09BA49F4D56B.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/BloombergRoom/BloombergDesk/glossy_plastic_black_Auto3.uasset'
+[2024.07.10-15.55.49:982][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BloombergRoom/BloombergDesk/led] ([1] browsable assets)...
+[2024.07.10-15.55.49:982][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/BloombergRoom/BloombergDesk/led]
+[2024.07.10-15.55.49:984][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BloombergRoom/BloombergDesk/led_Auto3
+[2024.07.10-15.55.49:985][270]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/led_Auto376506FD24AF12555BE80FC97E4929CBF.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Autosaves/Game/BloombergRoom/BloombergDesk/led_Auto3.uasset'
+[2024.07.10-15.55.49:986][270]LogFileHelpers: Auto-saving content packages took 0.324
+[2024.07.10-16.05.10:813][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.07.10-16.05.10:824][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.07.10-16.05.23:617][953]LogSlate: Window 'Save Content' being destroyed
+[2024.07.10-16.05.23:633][953]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.10-16.05.23:702][953]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.10-16.05.23:719][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.07.10-16.05.23:803][953]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/MarketingSuite
+[2024.07.10-16.05.23:804][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuite5B6436E145239EAA6A2FEC90430260A4.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/VRTemplate/Maps/MarketingSuite.umap'
+[2024.07.10-16.05.23:813][953]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/VRTemplate/Maps/MarketingSuite_BuiltData
+[2024.07.10-16.05.23:813][953]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.10-16.05.23:873][953]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/MarketingSuite_BuiltData
+[2024.07.10-16.05.23:874][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuite_BuiltData98A5C1354A326A352E624E84F2AAE291.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/VRTemplate/Maps/MarketingSuite_BuiltData.uasset'
+[2024.07.10-16.05.23:876][953]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 3.13 sec)
+[2024.07.10-16.05.23:876][953]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/VRTemplate/Maps/MarketingSuite_BuiltData
+[2024.07.10-16.05.23:883][953]LogFileHelpers: Saving map 'MarketingSuite' took 0.181
+[2024.07.10-16.05.23:890][953]LogSavePackage: Moving output files for package: /Game/BloombergRoom/BloombergDesk/bloomberg_desk1_bloomberg_desk
+[2024.07.10-16.05.23:890][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/bloomberg_desk1_bloomberg_desk5A55B4CC4E53835BD1085EAEDBED5D78.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/BloombergRoom/BloombergDesk/bloomberg_desk1_bloomberg_desk.uasset'
+[2024.07.10-16.05.23:897][953]LogSavePackage: Moving output files for package: /Game/BloombergRoom/BloombergDesk/bloomberg_desk1_bloomberg_desk_001
+[2024.07.10-16.05.23:897][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/bloomberg_desk1_bloomberg_desk_0B94505A047F9C8F3AB1F019ED11F114E.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/BloombergRoom/BloombergDesk/bloomberg_desk1_bloomberg_desk_001.uasset'
+[2024.07.10-16.05.23:903][953]LogSavePackage: Moving output files for package: /Game/BloombergRoom/RoomPieces/bloomberg_roomDoor_BloombergWallPiece_004
+[2024.07.10-16.05.23:903][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/bloomberg_roomDoor_BloombergWallDE779898483107219A04578855DC169E.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/BloombergRoom/RoomPieces/bloomberg_roomDoor_BloombergWallPiece_004.uasset'
+[2024.07.10-16.05.23:907][953]LogSavePackage: Moving output files for package: /Game/BloombergRoom/RoomPieces/bloomberg_roomSeparate_BloombergCenterPillar
+[2024.07.10-16.05.23:908][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/bloomberg_roomSeparate_Bloomberg8BF364E64EF7315973E8A7B7676C8C9E.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/BloombergRoom/RoomPieces/bloomberg_roomSeparate_BloombergCenterPillar.uasset'
+[2024.07.10-16.05.23:913][953]LogSavePackage: Moving output files for package: /Game/BloombergRoom/RoomPieces/bloomberg_roomSeparate_Cube_001
+[2024.07.10-16.05.23:914][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/bloomberg_roomSeparate_Cube_001F7D41F7146EAEB3913428D81A77123E2.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/BloombergRoom/RoomPieces/bloomberg_roomSeparate_Cube_001.uasset'
+[2024.07.10-16.05.24:124][953]LogSavePackage: Moving output files for package: /Game/BloombergRoom/RoomPieces/ChairFabric
+[2024.07.10-16.05.24:124][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/ChairFabricE9068F844E482294C76FB988851D50C7.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/BloombergRoom/RoomPieces/ChairFabric.uasset'
+[2024.07.10-16.05.24:127][953]LogSavePackage: Moving output files for package: /Game/BloombergRoom/RoomPieces/door_single_mat_001
+[2024.07.10-16.05.24:127][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/door_single_mat_001FA6E414B463ABB64E2CF879441BD06AB.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/BloombergRoom/RoomPieces/door_single_mat_001.uasset'
+[2024.07.10-16.05.24:195][953]LogSavePackage: Moving output files for package: /Game/BloombergRoom/RoomPieces/FloorCarpet2
+[2024.07.10-16.05.24:195][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/FloorCarpet28F36A59342531E0F372BF086FC8A5C95.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/BloombergRoom/RoomPieces/FloorCarpet2.uasset'
+[2024.07.10-16.05.24:198][953]LogSavePackage: Moving output files for package: /Game/BloombergRoom/RoomPieces/frame_mat
+[2024.07.10-16.05.24:199][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/frame_mat5D98EA90452F93B7E1D5309A02ED59DB.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/BloombergRoom/RoomPieces/frame_mat.uasset'
+[2024.07.10-16.05.24:203][953]LogSavePackage: Moving output files for package: /Game/BloombergRoom/RoomPieces/frame_mat_001
+[2024.07.10-16.05.24:203][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/frame_mat_001DE7D7EC04C72E2E9AC79C08EE4A4F871.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/BloombergRoom/RoomPieces/frame_mat_001.uasset'
+[2024.07.10-16.05.24:206][953]LogSavePackage: Moving output files for package: /Game/BloombergRoom/RoomPieces/glass_mat_001
+[2024.07.10-16.05.24:206][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/glass_mat_00156794FEF4BB29B95A78A768B1803984E.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/BloombergRoom/RoomPieces/glass_mat_001.uasset'
+[2024.07.10-16.05.24:208][953]LogSavePackage: Moving output files for package: /Game/BloombergRoom/BloombergDesk/glossy_plastic_black
+[2024.07.10-16.05.24:208][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/glossy_plastic_black647DA30B48FD13659DC7A6B49A003B3A.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/BloombergRoom/BloombergDesk/glossy_plastic_black.uasset'
+[2024.07.10-16.05.24:279][953]LogSavePackage: Moving output files for package: /Game/BloombergRoom/RoomPieces/Greenwich_Logo
+[2024.07.10-16.05.24:279][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Greenwich_LogoD34486554CF730D777FFE5B3B022DBEE.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/BloombergRoom/RoomPieces/Greenwich_Logo.uasset'
+[2024.07.10-16.05.24:284][953]LogSavePackage: Moving output files for package: /Game/BloombergRoom/BloombergDesk/Keyboard
+[2024.07.10-16.05.24:285][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Keyboard951B8C6348E3BF3485FD248DDC548013.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/BloombergRoom/BloombergDesk/Keyboard.uasset'
+[2024.07.10-16.05.24:289][953]LogSavePackage: Moving output files for package: /Game/BloombergRoom/BloombergDesk/led
+[2024.07.10-16.05.24:289][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/ledFDE40956440EAD76D319128094892492.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/BloombergRoom/BloombergDesk/led.uasset'
+[2024.07.10-16.05.24:292][953]LogSavePackage: Moving output files for package: /Game/BloombergRoom/RoomPieces/Light
+[2024.07.10-16.05.24:292][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/LightD9D95F8F4F3D4B99990DC08FFE75FF0E.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/BloombergRoom/RoomPieces/Light.uasset'
+[2024.07.10-16.05.24:302][953]LogSavePackage: Moving output files for package: /Game/BloombergRoom/BloombergDesk/Logitech_G603_Turbosquid
+[2024.07.10-16.05.24:303][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Logitech_G603_TurbosquidC0245AF5412BCC0771E4ADB7E0D12A49.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/BloombergRoom/BloombergDesk/Logitech_G603_Turbosquid.uasset'
+[2024.07.10-16.05.24:363][953]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/MarketingSuite_BuiltData
+[2024.07.10-16.05.24:363][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuite_BuiltData9A62E082428A5F434ED1A1A99E9D1C65.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/VRTemplate/Maps/MarketingSuite_BuiltData.uasset'
+[2024.07.10-16.05.24:425][953]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/MarketingSuite_BuiltData
+[2024.07.10-16.05.24:426][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuite_BuiltDataA6296705456E2D63500E03B72C481519.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/VRTemplate/Maps/MarketingSuite_BuiltData.uasset'
+[2024.07.10-16.05.24:485][953]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/MarketingSuite_BuiltData
+[2024.07.10-16.05.24:486][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuite_BuiltData9416B6284F4518F73F2643849176A05F.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/VRTemplate/Maps/MarketingSuite_BuiltData.uasset'
+[2024.07.10-16.05.24:546][953]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/MarketingSuite_BuiltData
+[2024.07.10-16.05.24:547][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuite_BuiltData5CA4D3CD4F990526CCA9D88D200CB37F.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/VRTemplate/Maps/MarketingSuite_BuiltData.uasset'
+[2024.07.10-16.05.24:605][953]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/MarketingSuite_BuiltData
+[2024.07.10-16.05.24:606][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuite_BuiltData3BE1FD3548DC0DFEFCAB308CAF14FD88.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/VRTemplate/Maps/MarketingSuite_BuiltData.uasset'
+[2024.07.10-16.05.24:670][953]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/MarketingSuite_BuiltData
+[2024.07.10-16.05.24:671][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuite_BuiltDataEDFC3DC844AE4D1335CDC8B12C71610E.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/VRTemplate/Maps/MarketingSuite_BuiltData.uasset'
+[2024.07.10-16.05.24:731][953]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/MarketingSuite_BuiltData
+[2024.07.10-16.05.24:732][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuite_BuiltData8F16D89C410B5BCE3E1D36B6CE7A89C3.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/VRTemplate/Maps/MarketingSuite_BuiltData.uasset'
+[2024.07.10-16.05.24:798][953]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/MarketingSuite_BuiltData
+[2024.07.10-16.05.24:800][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuite_BuiltDataBD0D8FA14FA750CE27020AA11CBE7F71.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/VRTemplate/Maps/MarketingSuite_BuiltData.uasset'
+[2024.07.10-16.05.24:867][953]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/MarketingSuite_BuiltData
+[2024.07.10-16.05.24:868][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuite_BuiltDataC7DD094142FD8FC0DE7B7599639F91D2.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/VRTemplate/Maps/MarketingSuite_BuiltData.uasset'
+[2024.07.10-16.05.24:925][953]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/MarketingSuite_BuiltData
+[2024.07.10-16.05.24:926][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuite_BuiltData0628A8DC45CE11469ACDF58939561027.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/VRTemplate/Maps/MarketingSuite_BuiltData.uasset'
+[2024.07.10-16.05.24:931][953]LogSavePackage: Moving output files for package: /Game/MarketingSuite/MarketingSuite_ceiling
+[2024.07.10-16.05.24:932][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuite_ceiling64F20187460032177DB33BAFD4D583BC.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/MarketingSuite/MarketingSuite_ceiling.uasset'
+[2024.07.10-16.05.24:964][953]LogSavePackage: Moving output files for package: /Game/MarketingSuite/MarketingSuiteDesk/MarketingSuiteDesk
+[2024.07.10-16.05.24:965][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuiteDeskB761213C4684046403555DACBA33CE4F.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/MarketingSuite/MarketingSuiteDesk/MarketingSuiteDesk.uasset'
+[2024.07.10-16.05.24:971][953]LogSavePackage: Moving output files for package: /Game/MarketingSuite/RoomWallSegments/MarketingSuiteWallSegments_Cube_016
+[2024.07.10-16.05.24:972][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuiteWallSegments_Cube_7AC7330D4E15EB798BA9EBB17B7D72B9.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/MarketingSuite/RoomWallSegments/MarketingSuiteWallSegments_Cube_016.uasset'
+[2024.07.10-16.05.24:976][953]LogSavePackage: Moving output files for package: /Game/MarketingSuite/RoomWallSegments/MarketingSuiteWallSegments_Cube_019
+[2024.07.10-16.05.24:977][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuiteWallSegments_Cube_5CCA67FD459A996EAD771195748A2DDB.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/MarketingSuite/RoomWallSegments/MarketingSuiteWallSegments_Cube_019.uasset'
+[2024.07.10-16.05.24:982][953]LogSavePackage: Moving output files for package: /Game/MarketingSuite/RoomWallSegments/MarketingSuiteWallSegments_Cube_021
+[2024.07.10-16.05.24:982][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuiteWallSegments_Cube_BCFFB5A54FB2491AB3F76FA7FF30CF0A.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/MarketingSuite/RoomWallSegments/MarketingSuiteWallSegments_Cube_021.uasset'
+[2024.07.10-16.05.24:989][953]LogSavePackage: Moving output files for package: /Game/MarketingSuite/RoomWallSegments/MarketingSuiteWallSegments_Cube_034
+[2024.07.10-16.05.24:990][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/MarketingSuiteWallSegments_Cube_68B75FA64FBBDF7C7844F1A2813AB98F.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/MarketingSuite/RoomWallSegments/MarketingSuiteWallSegments_Cube_034.uasset'
+[2024.07.10-16.05.24:993][953]LogSavePackage: Moving output files for package: /Game/BloombergRoom/RoomPieces/Material_002
+[2024.07.10-16.05.24:993][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Material_0022BF162F2464693B81D074C89738D64FF.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/BloombergRoom/RoomPieces/Material_002.uasset'
+[2024.07.10-16.05.24:996][953]LogSavePackage: Moving output files for package: /Game/BloombergRoom/RoomPieces/Material_003
+[2024.07.10-16.05.24:996][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/Material_003894845DE495B99C7DD9FA1A89CEF5FFD.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/BloombergRoom/RoomPieces/Material_003.uasset'
+[2024.07.10-16.05.24:999][953]LogSavePackage: Moving output files for package: /Game/BloombergRoom/BloombergDesk/matt_plastic_black
+[2024.07.10-16.05.24:999][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/matt_plastic_black4608E43A4BD73159CCFA11AC3B2A0B86.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/BloombergRoom/BloombergDesk/matt_plastic_black.uasset'
+[2024.07.10-16.05.25:002][953]LogSavePackage: Moving output files for package: /Game/BloombergRoom/BloombergDesk/matt_plastic_grey
+[2024.07.10-16.05.25:002][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/matt_plastic_greyA51342CF4F79195E9DD4FEA668ACDAF7.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/BloombergRoom/BloombergDesk/matt_plastic_grey.uasset'
+[2024.07.10-16.05.25:007][953]LogSavePackage: Moving output files for package: /Game/BloombergRoom/RoomPieces/oak_veneer_01_diff_2k
+[2024.07.10-16.05.25:007][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/oak_veneer_01_diff_2kEE0F8D574783BA5A9A6F768F8149AF3C.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/BloombergRoom/RoomPieces/oak_veneer_01_diff_2k.uasset'
+[2024.07.10-16.05.25:010][953]LogSavePackage: Moving output files for package: /Game/BloombergRoom/RoomPieces/PaintedWhiteWood
+[2024.07.10-16.05.25:010][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/PaintedWhiteWood252A25894C6FF853E18C0CB89B6BAA71.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/BloombergRoom/RoomPieces/PaintedWhiteWood.uasset'
+[2024.07.10-16.05.25:167][953]LogSavePackage: Moving output files for package: /Game/BloombergRoom/RoomPieces/PaintedWoodwhite
+[2024.07.10-16.05.25:167][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/PaintedWoodwhiteF0F3932448A713FBFC8769803E522458.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/BloombergRoom/RoomPieces/PaintedWoodwhite.uasset'
+[2024.07.10-16.05.25:172][953]LogSavePackage: Moving output files for package: /Game/BloombergRoom/RoomPieces/props_mat_001
+[2024.07.10-16.05.25:172][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/props_mat_00149EAA38E4B587989C34AEC8D67665D5F.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/BloombergRoom/RoomPieces/props_mat_001.uasset'
+[2024.07.10-16.05.25:174][953]LogSavePackage: Moving output files for package: /Game/BloombergRoom/RoomPieces/SCREEN
+[2024.07.10-16.05.25:174][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/SCREENC22A52C548DFA5B5782EB496F0DEF82D.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/BloombergRoom/RoomPieces/SCREEN.uasset'
+[2024.07.10-16.05.25:177][953]LogSavePackage: Moving output files for package: /Game/BloombergRoom/RoomPieces/sound_proofing
+[2024.07.10-16.05.25:177][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/sound_proofing74779F2342821A9904234CB91DE949DD.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/BloombergRoom/RoomPieces/sound_proofing.uasset'
+[2024.07.10-16.05.25:180][953]LogSavePackage: Moving output files for package: /Game/BloombergRoom/RoomPieces/TV_Back_001
+[2024.07.10-16.05.25:180][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/TV_Back_001E887F74E4720C2ED6575B096D645C592.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/BloombergRoom/RoomPieces/TV_Back_001.uasset'
+[2024.07.10-16.05.25:183][953]LogSavePackage: Moving output files for package: /Game/BloombergRoom/RoomPieces/Wall
+[2024.07.10-16.05.25:183][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/WallCEF1C264408BFE879F8B6DA79FF6049D.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/BloombergRoom/RoomPieces/Wall.uasset'
+[2024.07.10-16.05.25:344][953]LogSavePackage: Moving output files for package: /Game/BloombergRoom/RoomPieces/WallTexture
+[2024.07.10-16.05.25:344][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/WallTexture4526E5834B65D7059531A885B075EF3A.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/BloombergRoom/RoomPieces/WallTexture.uasset'
+[2024.07.10-16.05.25:352][953]LogSavePackage: Moving output files for package: /Game/MarketingSuite/FreeStandingTV/WallTV1
+[2024.07.10-16.05.25:353][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/WallTV1CB4FB6ED4811814C3599BA95866DC2F6.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/MarketingSuite/FreeStandingTV/WallTV1.uasset'
+[2024.07.10-16.05.25:357][953]LogSavePackage: Moving output files for package: /Game/BloombergRoom/RoomPieces/white_plastic
+[2024.07.10-16.05.25:357][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/white_plastic431FA2AC401D9CF6AFA73381E271095A.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/BloombergRoom/RoomPieces/white_plastic.uasset'
+[2024.07.10-16.05.25:360][953]LogSavePackage: Moving output files for package: /Game/BloombergRoom/RoomPieces/window_frame_mat_001
+[2024.07.10-16.05.25:360][953]LogSavePackage: Moving '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/window_frame_mat_001AC76812646BB3B98E5D2D5A170BDED3C.tmp' to '../../../../../Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Content/BloombergRoom/RoomPieces/window_frame_mat_001.uasset'
+[2024.07.10-16.05.25:390][953]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.75 sec (total: 4.89 sec)
+[2024.07.10-16.05.25:390][953]LogStall: Shutdown...
+[2024.07.10-16.05.25:394][953]LogStall: Shutdown complete.
+[2024.07.10-16.05.25:426][953]LogSlate: Window 'Message Log' being destroyed
+[2024.07.10-16.05.25:433][953]LogSlate: Window 'VRGame - Unreal Editor' being destroyed
+[2024.07.10-16.05.25:644][953]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.10-16.05.25:644][953]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/BloombergRoom/RoomPieces/bloomberg_roomDoor_BloombergWallPiece_004.bloomberg_roomDoor_BloombergWallPiece_004
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BloombergRoom/RoomPieces/FloorCarpet2.FloorCarpet2
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BloombergRoom/RoomPieces/Material_003.Material_003
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BloombergRoom/RoomPieces/Light.Light
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BloombergRoom/RoomPieces/white_plastic.white_plastic
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BloombergRoom/RoomPieces/WallTexture.WallTexture
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BloombergRoom/RoomPieces/Wall.Wall
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BloombergRoom/RoomPieces/ChairFabric.ChairFabric
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BloombergRoom/RoomPieces/sound_proofing.sound_proofing
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BloombergRoom/RoomPieces/PaintedWoodwhite.PaintedWoodwhite
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BloombergRoom/RoomPieces/PaintedWhiteWood.PaintedWhiteWood
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BloombergRoom/RoomPieces/props_mat_001.props_mat_001
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BloombergRoom/RoomPieces/frame_mat.frame_mat
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BloombergRoom/RoomPieces/window_frame_mat_001.window_frame_mat_001
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BloombergRoom/RoomPieces/glass_mat_001.glass_mat_001
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BloombergRoom/RoomPieces/oak_veneer_01_diff_2k.oak_veneer_01_diff_2k
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BloombergRoom/RoomPieces/door_single_mat_001.door_single_mat_001
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BloombergRoom/RoomPieces/frame_mat_001.frame_mat_001
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BloombergRoom/RoomPieces/Material_002.Material_002
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BloombergRoom/RoomPieces/Greenwich_Logo.Greenwich_Logo
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BloombergRoom/RoomPieces/SCREEN.SCREEN
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BloombergRoom/RoomPieces/TV_Back_001.TV_Back_001
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/VRTemplate/Maps/MarketingSuite_BuiltData.MarketingSuite_BuiltData
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/BloombergRoom/RoomPieces/bloomberg_roomSeparate_BloombergCenterPillar.bloomberg_roomSeparate_BloombergCenterPillar
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/BloombergRoom/RoomPieces/bloomberg_roomSeparate_Cube_001.bloomberg_roomSeparate_Cube_001
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MarketingSuite/FreeStandingTV/WallTV1.WallTV1
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MarketingSuite/MarketingSuite_ceiling.MarketingSuite_ceiling
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MarketingSuite/MarketingSuiteDesk/MarketingSuiteDesk.MarketingSuiteDesk
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MarketingSuite/RoomWallSegments/MarketingSuiteWallSegments_Cube_016.MarketingSuiteWallSegments_Cube_016
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MarketingSuite/RoomWallSegments/MarketingSuiteWallSegments_Cube_019.MarketingSuiteWallSegments_Cube_019
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MarketingSuite/RoomWallSegments/MarketingSuiteWallSegments_Cube_021.MarketingSuiteWallSegments_Cube_021
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MarketingSuite/RoomWallSegments/MarketingSuiteWallSegments_Cube_034.MarketingSuiteWallSegments_Cube_034
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/MarketingSuite.MarketingSuite
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/BloombergRoom/BloombergDesk/bloomberg_desk1_bloomberg_desk_001.bloomberg_desk1_bloomberg_desk_001
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/BloombergRoom/BloombergDesk/bloomberg_desk1_bloomberg_desk.bloomberg_desk1_bloomberg_desk
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BloombergRoom/BloombergDesk/led.led
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BloombergRoom/BloombergDesk/glossy_plastic_black.glossy_plastic_black
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BloombergRoom/BloombergDesk/matt_plastic_grey.matt_plastic_grey
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BloombergRoom/BloombergDesk/matt_plastic_black.matt_plastic_black
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BloombergRoom/BloombergDesk/Keyboard.Keyboard
+[2024.07.10-16.05.25:645][953]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/BloombergRoom/BloombergDesk/Logitech_G603_Turbosquid.Logitech_G603_Turbosquid
+[2024.07.10-16.05.25:663][954]Cmd: QUIT_EDITOR
+[2024.07.10-16.05.25:663][954]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.07.10-16.05.25:670][954]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.07.10-16.05.25:670][954]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.07.10-16.05.25:670][954]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.07.10-16.05.25:672][954]LogWorld: UWorld::CleanupWorld for MarketingSuite, bSessionEnded=true, bCleanupResources=true
+[2024.07.10-16.05.25:672][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.10-16.05.25:672][954]LogWorld: UWorld::CleanupWorld for MarketingSuite_Auto8, bSessionEnded=true, bCleanupResources=true
+[2024.07.10-16.05.25:672][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.10-16.05.25:673][954]LogWorld: UWorld::CleanupWorld for MarketingSuite_Auto7, bSessionEnded=true, bCleanupResources=true
+[2024.07.10-16.05.25:673][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.10-16.05.25:673][954]LogWorld: UWorld::CleanupWorld for MarketingSuite_Auto6, bSessionEnded=true, bCleanupResources=true
+[2024.07.10-16.05.25:673][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.10-16.05.33:386][954]LogWorld: UWorld::CleanupWorld for MarketingSuite_Auto5, bSessionEnded=true, bCleanupResources=true
+[2024.07.10-16.05.33:386][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.10-16.05.33:386][954]LogWorld: UWorld::CleanupWorld for MarketingSuite_Auto4, bSessionEnded=true, bCleanupResources=true
+[2024.07.10-16.05.33:386][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.10-16.05.33:386][954]LogWorld: UWorld::CleanupWorld for MarketingSuite_Auto3, bSessionEnded=true, bCleanupResources=true
+[2024.07.10-16.05.33:386][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.10-16.05.33:386][954]LogWorld: UWorld::CleanupWorld for MarketingSuite_Auto2, bSessionEnded=true, bCleanupResources=true
+[2024.07.10-16.05.33:386][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.10-16.05.33:386][954]LogWorld: UWorld::CleanupWorld for MarketingSuite_Auto1, bSessionEnded=true, bCleanupResources=true
+[2024.07.10-16.05.33:386][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.10-16.05.33:386][954]LogStylusInput: Shutting down StylusInput subsystem.
+[2024.07.10-16.05.33:386][954]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.07.10-16.05.33:386][954]LogWindows: Error: === Critical error: ===
+[2024.07.10-16.05.33:386][954]LogWindows: Error: 
+[2024.07.10-16.05.33:386][954]LogWindows: Error: Ensure condition failed: LivePreviewHoverTriangleSet.IsValid() [File:D:\build\++UE5\Sync\Engine\Plugins\Experimental\UVEditor\Source\UVEditorTools\Private\Selection\UVEditorMeshSelectionMechanic.cpp] [Line: 1609] 
+[2024.07.10-16.05.33:386][954]LogWindows: Error: 
+[2024.07.10-16.05.33:386][954]LogWindows: Error: 
+[2024.07.10-16.05.33:386][954]LogWindows: Error: 
+[2024.07.10-16.05.33:386][954]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0xffffffffffffffff
+[2024.07.10-16.05.33:386][954]LogWindows: Error: 
+[2024.07.10-16.05.33:386][954]LogWindows: Error: [Callstack] 0x00007ff9fda41720 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.07.10-16.05.33:386][954]LogWindows: Error: [Callstack] 0x00007ff9dcd4a99f UnrealEditor-Renderer.dll!UnknownFunction []
+[2024.07.10-16.05.33:386][954]LogWindows: Error: [Callstack] 0x00007ff9dccf3220 UnrealEditor-Renderer.dll!UnknownFunction []
+[2024.07.10-16.05.33:386][954]LogWindows: Error: [Callstack] 0x00007ff9dcd1f57d UnrealEditor-Renderer.dll!UnknownFunction []
+[2024.07.10-16.05.33:386][954]LogWindows: Error: [Callstack] 0x00007ffa004ed5f6 UnrealEditor-Core.dll!UnknownFunction []
+[2024.07.10-16.05.33:386][954]LogWindows: Error: [Callstack] 0x00007ffa004edb1e UnrealEditor-Core.dll!UnknownFunction []
+[2024.07.10-16.05.33:386][954]LogWindows: Error: [Callstack] 0x00007ff9fbbfc5e9 UnrealEditor-RenderCore.dll!UnknownFunction []
+[2024.07.10-16.05.33:386][954]LogWindows: Error: [Callstack] 0x00007ff9fbc02554 UnrealEditor-RenderCore.dll!UnknownFunction []
+[2024.07.10-16.05.33:386][954]LogWindows: Error: [Callstack] 0x00007ffa00bb2162 UnrealEditor-Core.dll!UnknownFunction []
+[2024.07.10-16.05.33:386][954]LogWindows: Error: [Callstack] 0x00007ffa00ba81b0 UnrealEditor-Core.dll!UnknownFunction []
+[2024.07.10-16.05.33:386][954]LogWindows: Error: [Callstack] 0x00007ffa69797344 KERNEL32.DLL!UnknownFunction []
+[2024.07.10-16.05.33:386][954]LogWindows: Error: [Callstack] 0x00007ffa6997cc91 ntdll.dll!UnknownFunction []
+[2024.07.10-16.05.33:386][954]LogWindows: Error: 
