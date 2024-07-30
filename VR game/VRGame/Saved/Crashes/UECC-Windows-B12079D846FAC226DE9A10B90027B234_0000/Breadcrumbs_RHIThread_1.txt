@@ -1,8 +1,0 @@
-Breadcrumbs 'RHIThread'
-Context 1/2
-	00 Scene
-	01 Scene
-	02 ShadowProjectionOnOpaque
-	03 None.DirectionalLightComponent_0
-	04 Shadows
-	05 None.DirectionalLightComponent_0
