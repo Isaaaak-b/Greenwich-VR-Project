@@ -1,2 +1,6 @@
-2024/06/28-10:14:00.320 545c Creating DB C:/Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2024/06/28-10:14:00.333 545c Reusing MANIFEST C:/Users/ib3913j/Documents/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/08/02-15:47:11.827 5860 Reusing MANIFEST C:/Users/belka/Documents/GitHub/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/08/02-15:47:11.846 5860 Recovering log #3
+2024/08/02-15:47:11.868 5860 Reusing old log C:/Users/belka/Documents/GitHub/Greenwich-VR-Project/VR game/VRGame 5.2/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/08/02-15:49:33.908 550 Level-0 table #5: started
+2024/08/02-15:49:33.935 550 Level-0 table #5: 16807 bytes OK
+2024/08/02-15:49:33.940 550 Delete type=0 #3
