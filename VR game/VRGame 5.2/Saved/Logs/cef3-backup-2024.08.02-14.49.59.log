@@ -1,3 +1,0 @@
-[0802/154705.394:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[0802/154907.019:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[0802/154959.653:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 29
